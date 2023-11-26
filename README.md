@@ -1,13 +1,13 @@
-#YOUTUBE MUSIC
+# YOUTUBE MUSIC
 
 
-##Takım Üyeleri
+## Takım Üyeleri
 
 
 221216063 Özhan Danyıldız
 
 
-###Supervisior
+### Supervisior
 
 
-Keyvan Arasteh:https://github.com/keyvanarasteh
+Keyvan Arasteh= https://github.com/keyvanarasteh
